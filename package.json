@@ -1,6 +1,6 @@
 {
   "name": "@endge/integration-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Public contracts for Endge integrations",
   "type": "module",
   "sideEffects": false,
